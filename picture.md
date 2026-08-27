@@ -14,6 +14,8 @@ One of the things your instructors will want to do is _get to know you_
 * **Each Other:** In order to get to know each other, the photo you post to the LMS needs to be taken by someone you don't already know, who is a member of this course, and sent to you by your campus email
 
 * **Your Smiling Fez:** You will want your professor to know you too, so another requirement of this course is to post your picture to Brightspace, our [LMS](https://en.wikipedia.org/wiki/Learning_management_system)
+
+
 ------
 
 ### ASSIGNMENTS 1, 2 & 3
