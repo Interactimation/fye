@@ -34,7 +34,7 @@ One of the things your instructors will want to do is _get to know you_
 
 * Save the selfie as evidence for this course (I'll tell you how to turn it in elsewhere)
     * If your instructor _is not in_ when you drop in _during office hours_, go ahead and _take a (smiling) selfie in front of their door_ and email it to them within 24 hours
-    * Include a polite note (giving your name and the course you're taking with them) that you dropped by
+    * Include a polite note (giving your name _and the course you're taking with them_) that you dropped by
     * In the email, either ask a question, tell them you're looking forward to the semester, or explain that you're just trying to meet your professors
     * **DO NOT mention that you dropped by _during their office hours_**
 
