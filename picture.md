@@ -50,7 +50,7 @@ One of the things your instructors will want to do is _get to know you_
 
 * We're looking for head shots —from about the shoulders, up— and in [_three quarter view_](https://www.google.com/search?q=three+quarter+view+portrait&sca_esv=281fd5caffd4d782&udm=2&biw=1440&bih=789&sxsrf=APpeQnsywtL0vz0LElf90g6NxY1rCtvkjQ%3A1787865561281&ei=2amQat7oEMefptQPsdC3cA&ved=0ahUKEwieub6d3sGWAxXHj4kEHTHoDQ4Q4dUDCBE&uact=5&oq=three+quarter+view+portrait&gs_lp=Egtnd3Mtd2l6LWltZyIbdGhyZWUgcXVhcnRlciB2aWV3IHBvcnRyYWl0MgUQABiABDIIEAAYBRgeGApIuTFQ7gtYvChwA3gAkAEAmAE5oAG9AqoBATa4AQPIAQD4AQGYAgmgAuMCwgIKEAAYgAQYigUYQ8ICBBAAGB7CAgYQABgeGArCAgYQABgIGB7CAgYQABgHGB7CAggQABgHGB4YCsICChAAGAUYBxgeGAqYAwCIBgGSBwE5oAfyC7IHATa4B9MCwgcFMi40LjPIBxqACAE&sclient=gws-wiz-img#ip=1) —that is, with the face turned slightly away from the camera
     * The eyes may be turned toward the camera, looking away, up or down —the key is that _the nose_ is not pointed directly at the camera and, _at most_, one ear is visible
-    * These don't have to be fashion shots, but try to make them as flattering as possible —make sure their face is visible
+    * These don't have to be fashion shots, but try to make them as flattering as possible —make sure their face is visible (they need not actually smile)
 
 > **Assignment 2 —Photo Shoot:** must be completed no later than Friday, 9/11
 
