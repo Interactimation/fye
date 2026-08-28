@@ -3,7 +3,7 @@ layout: page
 title: Getting to Know You
 ---
 
-## Getting to Know You (Each Other)
+## Getting to Know You <br />(and Each Other)
 
 One of the things your instructors will want to do is _get to know you_
 
@@ -14,7 +14,6 @@ One of the things your instructors will want to do is _get to know you_
 * **Each Other:** In order to get to know each other, the photo you post to the LMS needs to be taken by someone you don't already know, who is a member of this course, and sent to you by your campus email
 
 * **Your Smiling Fez:** You will want your professor to know you too, so another requirement of this course is to post your picture to Brightspace, our [LMS](https://en.wikipedia.org/wiki/Learning_management_system)
-
 
 ------
 
@@ -61,7 +60,7 @@ One of the things your instructors will want to do is _get to know you_
 * You do not have to keep this image as your avatar on Brightspace, but may take a screen-grab (we will have a tutorial on this as well) as evidence that it was posted
     * You will be requited to have _some image_ as an avatar in the LMS throughout the period of this course (what this image should be is ultimately your decision)
 
-> **Assignment 3 —Your Smiling Fes:** must be completed no later than Friday, 9/11 (the same as above) —managing the (potential) time crunch is part of the assignment
+> **Assignment 3 —Your Smiling Fez:** must be completed no later than Friday, 9/11 (the same as above) —managing the (potential) time crunch is part of the assignment
 
 ////
 
