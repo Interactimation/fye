@@ -2,11 +2,11 @@
 
 FYE 101 Fall 2026
  
-**Instructor:** Mark Baldridge
-**Office:** Science 345
-**Email:** mbaldridge@albright.edu
-**Student Hours:** 9am to Noon, Fridays
-**Class Time:** 3pm Fridays
+**Instructor:** Mark Baldridge\
+**Office:** Science 345\
+**Email:** mbaldridge@albright.edu\
+**Student Hours:** 9am to Noon, Fridays\
+**Class Time:** 3pm Fridays\
 **Class Place:** Science Hall 251
 
 ## COURSE DESCRIPTION: The First-Year Experience is a one credit-hour course designed to introduce you to the college experience —to acclimate you to life at Albright
@@ -35,19 +35,29 @@ Baldwin, A. (2020). College success. OpenStax. https://openstax.org/details/book
 
 Dillon, D. (2018). Blueprint for success in career decision making. Rebus Community. https://press.rebus.community/blueprint3/
 
-ASSIGNMENTS AND EVALUATION: The following tasks are designed to help you develop the skills necessary to think, learn, and ultimately succeed in college (and beyond).
-
 The semester evaluation is based on 100 points total
 
-15% Attendance and Engagement: You can’t learn if you are not here. Not only does your learning suffer, but also the learning of your colleagues and classmates, everyone’s contribution matters. Learning is more than just showing up. You are expected to come to class on time, prepared with your assignments, ready to discuss any readings or experiences. If you miss more than 40% of the scheduled class periods, you will automatically fail this course.  
+////TODO: Projects / Tutorials
 
-10% Experience Event: Albright has a special program called The Experience. In this class, you will learn about Experience Events and attend at least one Experience Event. Here is the list of events this semester: https://www.albright.edu/academics/the-experience. Your instructor or another classmate may organize a group to attend an Experience Event together, and you can also attend one on your own.  After you attend the event, write a reflection on the event.  Please include the title and date of the event when describing the event.
 
-50% Weekly Assignments/Activities: Every week, you will have short assignments designed to introduce you to the college experience and help you transition from high school to college.
+### Portfolio
 
-25% Final Reflection: The final reflection assignment asks you to look back at your first semester, reflect on any challenges, and discuss your learning. You will write a 5-page essay that addresses at least three areas or incidents where you were challenged or learned something new, failed or succeeded or were surprised. In this essay, you will need to demonstrate engagement with FYE materials by referencing specifically at least two assignments (readings or activities). Consider: how did the FYE materials help you through a challenge; what did the FYE materials miss about your situation; is there a Learning Goal of the class or of the General Education program that connected with you; was there a particular assignment that helped you think differently about Albright or even about yourself; if you could go back in time, what would you tell yourself on the first day of the semester?
+You will never email or give me your assignment (unless asked, for purposes of critique) but will keep and preserve your work in a digital portfolio. 
 
-Your final reflection will be due during exam week (December 7-11), whenever the exam period is scheduled by the registrar. 
+You may use a google drive — for video files, a youtube channel. Tho if you prefer ftp and Vimeo or some other combo, this is up to you!  
+
+> I don't wish you to preserve your work in any space tied to your student email. I want you to have access to this material long after graduation, and indeed until you decide to archive or delete it!
+
+If a Google Drive folder, your instructor will want it to be shared by a particular, preferred method:  
+
+> LINK: [How to share a Google Drive folder with your instructor](https://www.youtube.com/watch?v=-ZMBsB_Q0PA)
+
+> You are required to follow this tutorial if using Google Drive!
+
+This kind of digital portfolio is only a few steps away from a professional version, useful for applying for gigs, gradschool or etc.
+
+> Your professor will always be eager and ready to help you develop a _professional_ portfolio!
+
 
 ### Details of Scale
 
