@@ -25,7 +25,7 @@ One of the things your instructors will want to do is _get to know you_
 
 * To be clear: don't make an appointment, it's important for you to know that these are _open_ hours!
 
-* The [etiquette](https://www.merriam-webster.com/dictionary/etiquette) is, even at open doors, _to knock first_ —the door jam or the door itself will do— _whether or not you can tell anyone is in there_
+* The [etiquette](https://www.merriam-webster.com/dictionary/etiquette) is, even at _open_ office doors, _to knock first_ —the door jam or the door itself will do— _whether or not you can tell anyone is in there_
 
 * Introduce yourself, _naming the course you're taking with them_ and either ask a question, tell them you're looking forward to the semester, or explain that you're just trying to meet your professors
 
@@ -48,7 +48,7 @@ One of the things your instructors will want to do is _get to know you_
 * Plan and meet with the members of your group for a photo shoot —you will each take a photo of every other member of your group and share them with all members by email
 
 * We're looking for head shots —from about the shoulders, up— and in [_three quarter view_](https://www.google.com/search?q=three+quarter+view+portrait&sca_esv=281fd5caffd4d782&udm=2&biw=1440&bih=789&sxsrf=APpeQnsywtL0vz0LElf90g6NxY1rCtvkjQ%3A1787865561281&ei=2amQat7oEMefptQPsdC3cA&ved=0ahUKEwieub6d3sGWAxXHj4kEHTHoDQ4Q4dUDCBE&uact=5&oq=three+quarter+view+portrait&gs_lp=Egtnd3Mtd2l6LWltZyIbdGhyZWUgcXVhcnRlciB2aWV3IHBvcnRyYWl0MgUQABiABDIIEAAYBRgeGApIuTFQ7gtYvChwA3gAkAEAmAE5oAG9AqoBATa4AQPIAQD4AQGYAgmgAuMCwgIKEAAYgAQYigUYQ8ICBBAAGB7CAgYQABgeGArCAgYQABgIGB7CAgYQABgHGB7CAggQABgHGB4YCsICChAAGAUYBxgeGAqYAwCIBgGSBwE5oAfyC7IHATa4B9MCwgcFMi40LjPIBxqACAE&sclient=gws-wiz-img#ip=1) —that is, with the face turned slightly away from the camera
-    * The eyes may be turned toward the camera, looking away, up or down —the key is that _the nose_ is not pointed directly at the camera and, _at most_, one ear is visible
+    * The _eyes_ may be turned toward the camera, looking away, up or down —the key is that _the nose_ is not pointed directly at the camera and, _at most_, one ear is visible
     * These don't have to be fashion shots, but try to make them as flattering as possible —make sure their face is visible (they need not actually smile)
 
 > **Assignment 2 —Photo Shoot:** must be completed no later than Friday, 9/11
@@ -57,8 +57,8 @@ One of the things your instructors will want to do is _get to know you_
 
 * We will have a brief tutoriak on where and how to upload these photos, and may need to reduce their file sizes to do so!
 
-* You do not have to keep this image as your avatar on Brightspace, but may take a screen-grab (we will have a tutorial on this as well) as evidence that it was posted
-    * You will be requited to have _some image_ as an avatar in the LMS throughout the period of this course (what this image should be is ultimately your decision)
+* You do not have to _keep_ this image as your avatar on Brightspace, but may take a screen-grab (we will have a tutorial on this as well) as evidence that it was posted
+    * You _will_ be requited to have _some image_ as an avatar in the LMS throughout the period of this course (what this image should be is ultimately your decision)
 
 > **Assignment 3 —Your Smiling Fez:** must be completed no later than Friday, 9/11 (the same as above) —managing the (potential) time crunch is part of the assignment
 

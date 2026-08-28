@@ -72,7 +72,7 @@ Grades will be posed to after each Project comes to completion but it's the grad
 
 # Calendar Fall 2026
 
-| WEEK     | GOAL     | NOTE |
+| WEEK    | GOAL     | NOTE |
 | -------- | -------- | -------- |
 | 1. 08/24 | Getting to Know You | Friday 28, last day to add or change a course |
 | 2. 08/31 | Introduction to Markdown |          |
