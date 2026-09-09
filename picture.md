@@ -55,7 +55,9 @@ One of the things your instructors will want to do is _get to know you_
 
 ### **Assignment 2 —Your Smiling Fez:** Upload one of your Each Other photos as your avatar in Brightspace, our LMS
 
-* We will have a brief tutoriak on where and how to upload these photos, and may need to reduce their file sizes to do so!
+* We will have a brief tutorial on where and how to upload these photos, and may need to reduce their file sizes to do so!
+
+* Send me an email telling me thge nbmes of your partners their majors and one other thing about them
 
 * You do not have to _keep_ this image as your avatar on Brightspace, but may take a screen-grab (we will have a tutorial on this as well) as evidence that it was posted
     * You _will_ be requited to have _some image_ as an avatar in the LMS throughout the period of this course (what this image should be is ultimately your decision)
