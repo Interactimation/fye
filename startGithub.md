@@ -3,23 +3,25 @@
 
 This workflow works on **Windows, Mac, and Chromebook** and requires no software installation.
 
-## 1. Create a GitHub Repository
+## Create a GitHub Repository
 
-1. Go to [GitHub](https://github.com).
+1. Go to [GitHub](https://github.com) and create a sign in (if you don't have one already!)
 2. Click **New repository**.
 3. Give the repository a name.
 4. Set it to **Public**.
 5. Check **Add a README file**.
 6. Click **Create repository**.
 
-## 2. Create Your Web Page
+### Create Your Web Page
 
 1. In the repository, click **Add file → Create new file**.
-2. Name the file:
+1. Name the file:
 
    `index.md`
 
-3. Add some Markdown:
+1. in the repo press the `.` (period) key —an editor will fills the screen
+
+1. Add some Markdown:
 
    ```markdown
    # My Markdown Test
@@ -34,11 +36,28 @@ This workflow works on **Windows, Mac, and Chromebook** and requires no software
    - Oranges
    - Lemons
 
+### Preview Your Markdown
 
-4. Click **Commit changes**.
-5. Commit the file to the `main` branch.
+To preview the page:
 
-## 3. Turn On GitHub Pages
+**Windows / Chromebook**
+
+`Ctrl + Shift + V`
+
+**Mac**
+
+`Cmd + Shift + V`
+
+To go back into edit mode just click the page name (index.md) in the left sidebar
+
+Now can edit the Markdown and preview the result before publishing it.
+
+### Save Your Changes
+
+1. Click **Commit changes**.
+1. Commit the file to the `main` branch.
+
+## Create Your Website
 
 1. Open **Settings** for the repository.
 
@@ -58,39 +77,20 @@ GitHub will display your site address:
 
 `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`
 
-## 4. Open the Browser-Based Editor
+### Open the Browser-Based Editor
 
-Return to the main page of your repository.
+After you've admired your very first website (or your first GitHub Pages website) return to the main page of your repository (the back button on your browser will do this)
 
-Press:
+### Edit Your Markdown
 
-`.`
-
-GitHub will open the repository in **github.dev**, a browser-based version of VS Code.
-
-No installation is required.
-
-## 5. Edit Your Markdown
+Press `.` again and edit the markdown
 
 1. In the **Explorer** on the left, click `index.md`.
 2. Edit the Markdown normally.
 3. Save your changes.
 
-## 6. Preview Your Markdown
 
-To preview the page:
-
-**Windows / Chromebook**
-
-`Ctrl + Shift + V`
-
-**Mac**
-
-`Cmd + Shift + V`
-
-You can edit the Markdown and preview the result before publishing it.
-
-## 7. Publish Your Changes
+### Publish Your Changes
 
 1. Click the **Source Control** icon on the left.
 
@@ -104,7 +104,7 @@ You can edit the Markdown and preview the result before publishing it.
 
 GitHub Pages will rebuild the website automatically.
 
-## 8. View Your Website
+### View Your Website
 
 Return to:
 
@@ -112,10 +112,12 @@ Return to:
 
 Refresh the page.
 
-Your Markdown changes should now appear on the website.
+Your Markdown changes should now appear on the website (it will take a couple minutes)
 
 ---
 
-The basic workflow is:
+---
+
+## The Basic Workflow:
 
 **Edit Markdown → Preview → Commit → Website**
