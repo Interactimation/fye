@@ -8,4 +8,7 @@ layout: default
 
 ## Table of Contents
 
+[Syllabus](FYEsyllabus.md)
 [Getting to Know You](picture.md)
+[Writing Tools](tools.md)
+

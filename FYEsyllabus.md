@@ -39,7 +39,6 @@ The semester evaluation is based on 100 points total
 
 ////TODO: Projects / Tutorials
 
-
 ### Portfolio
 
 You will never email or give me your assignment (unless asked, for purposes of critique) but will keep and preserve your work in a digital portfolio. 
