@@ -3,6 +3,8 @@
 
 This workflow works on **Windows, Mac, and Chromebook** and requires no software installation.
 
+------
+
 ## Create a GitHub Repository
 
 1. Go to [GitHub](https://github.com) and create a sign in (if you don't have one already!)
@@ -56,6 +58,8 @@ Now can edit the Markdown and preview the result before publishing it.
 
 1. Click **Commit changes**.
 1. Commit the file to the `main` branch.
+
+------
 
 ## Create Your Website
 
