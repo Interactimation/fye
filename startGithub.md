@@ -125,3 +125,22 @@ Your Markdown changes should now appear on the website (it will take a couple mi
 ## The Basic Workflow:
 
 **Edit Markdown → Preview → Commit → Website**
+
+------
+
+> **EXTENSIONS:** Spell Checker or other add ons for your editor. Below are instructions for for adding spell-checking and you may find them useful for finding other extensions...
+
+------
+
+## Spell Checker
+
+To install Web Spell & Grammar Check in the github.dev editor:
+
+* Click the Extensions icon in the far-left rail — four little squares — or press Cmd+Shift+X.
+* Search for Web Spell & Grammar Check.
+* Click Install.
+* Return to your .md file and save it once with Cmd (or Cntrl)+S.
+
+Misspellings should appear with red squiggles. Hover over one for a correction; Cmd/Cntrl+. (the period key) opens suggested fixes. If it does not start automatically, press Cmd/Cntrl+Shift+P, type Check Spelling & Grammar, and run it.
+
+> **NOTE:** As it sends the text it checks to LanguageTool’s public service, this extension is only really good for public repos. Should not be used on anything you need kept private!
