@@ -81,32 +81,39 @@ GitHub will display your site address:
 
 `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`
 
+6. Copy that url and go to your repo. On the right hand side in the About box, click the gear icon. Paste the URL into the _Website_ field and Save your changes —now you can always get to your website from your repo!
+
 ### Open the Browser-Based Editor
 
 After you've admired your very first website (or your first GitHub Pages website) return to the main page of your repository (the back button on your browser will do this)
 
-### Edit Your Markdown
+* Click the Green "Code" button
+* Instead of "local", choose "Codespaces" and
+* Select "Create codespace on main" (this opens a new tab and takes a minute to set up but tell it to "Trust" when the option appears)
 
-Press `.` again and edit the markdown
+You should eventually see something like this:
+<img src="pix/editor.png" alt="editor screen" width="500">
 
-1. In the **Explorer** on the left, click `index.md`.
-2. Edit the Markdown normally.
-3. Save your changes.
+### How to Use the Editor
 
+* On the left, click the "documents" icon
+* Select index.md
+* In the middle, type changes
+* When done, on the left, click the Source Control icon (paths branching between circles)
+* Type something in the "Changes" field _above_ the Commit button
+* Hover over the Chnages dropdown _below_ the Commit button and click the + sign that appear there
+* _Click_ the Commit button
+* Click the Sync changes button when it appears
+* In a few seconds your changes will appear on your site!
 
-### Publish Your Changes
+> **NOTE:** You can just close the editor tab, though if you end up with several repos, you may want to _stop_ the editor, as there's a limit to how many you can have running…
 
-1. Click the **Source Control** icon on the left.
+### To Stop or Start your Editor
 
-2. Enter a short commit message, such as:
-
-   `update page`
-
-3. Click **Commit**.
-
-4. Click **Sync Changes** or **Push** if requested.
-
-GitHub Pages will rebuild the website automatically.
+* Go to your repo
+* Click the green Code button and choose Codespaces
+* Under "On current branch" you'll see the randomly generated name of your editor and to the right three dots, click them
+* Choose "Stop codespace" to stop the editor or "Open in Browser" to restart or reopen it
 
 ### View Your Website
 
@@ -118,29 +125,30 @@ Refresh the page.
 
 Your Markdown changes should now appear on the website (it will take a couple minutes)
 
----
+## Preview your Work
 
----
+As markdown is plain text, it won't show formatting, but you can preview hour the formatting will appear, _as you type!_
 
-## The Basic Workflow:
+* Top right, find an icon that looks like a book open showing two pages with a magnifying glass
+* Click it for your preview
+* Use the X to close the preview tab when you don't want to see it any more
 
-**Edit Markdown → Preview → Commit → Website**
+------
+
+### The Basic Workflow:
+
+**Edit Markdown → Preview → Commit → View Website**
 
 ------
 
-> **EXTENSIONS:** Spell Checker or other add ons for your editor. Below are instructions for for adding spell-checking and you may find them useful for finding other extensions...
 
-------
+> **EXTENSIONS:** Spell Checker or other add-ons are available for your editor. Below are instructions for adding spell-checking and you may find them useful for finding and applying other extensions...
+
 
 ## Spell Checker
 
-To install Web Spell & Grammar Check in the github.dev editor:
+* With your Codespace editor running, on the left, click the Extensions icon (four boxes)
+* Type "Code spell checker" into the field at the top
+* Chose and install the Extension
 
-* Click the Extensions icon in the far-left rail — four little squares — or press Cmd+Shift+X.
-* Search for Web Spell & Grammar Check.
-* Click Install.
-* Return to your .md file and save it once with Cmd (or Cntrl)+S.
-
-Misspellings should appear with red squiggles. Hover over one for a correction; Cmd/Cntrl+. (the period key) opens suggested fixes. If it does not start automatically, press Cmd/Cntrl+Shift+P, type Check Spelling & Grammar, and run it.
-
-> **NOTE:** As it sends the text it checks to LanguageTool’s public service, this extension is only really good for public repos. Should not be used on anything you need kept private!
+Now misspelled words should get a squiggly underline!
