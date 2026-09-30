@@ -21,7 +21,7 @@ This workflow works on **Windows, Mac, and Chromebook** and requires no software
 
    `index.md`
 
-1. in the repo press the `.` (period) key —an editor will fills the screen
+1. With the file selected click the Edit icon (a pencil)
 
 1. Add some Markdown:
 
@@ -38,19 +38,10 @@ This workflow works on **Windows, Mac, and Chromebook** and requires no software
    - Oranges
    - Lemons
 
+
 ### Preview Your Markdown
 
-To preview the page:
-
-**Windows / Chromebook**
-
-`Ctrl + Shift + V`
-
-**Mac**
-
-`Cmd + Shift + V`
-
-To go back into edit mode just click the page name (index.md) in the left sidebar
+To preview the page click the Preview button ar the top of the edit field
 
 Now can edit the Markdown and preview the result before publishing it.
 
@@ -63,9 +54,9 @@ Now can edit the Markdown and preview the result before publishing it.
 
 ## Create Your Website
 
-* Open **Settings** for the repository.
+* _In the repository_ click the settings (Gear icon)
 
-* Select **Pages**.
+* Select **Pages** on the left
 
 * Under **Build and deployment**, choose:
 
@@ -75,13 +66,13 @@ Now can edit the Markdown and preview the result before publishing it.
 
 * Click **Save**.
 
-* Refresh the **Pages** settings page after a moment.
+* Refresh the **Pages** settings page after a moment — this may reasonably take a few minutes
 
 GitHub will display your site address:
 
 `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`
 
-* Copy that url and go to your repo. On the right hand side in the About box, click the gear icon. Paste the URL into the _Website_ field and Save your changes —now you can always get to your website from your repo!
+* Copy that url and go to your repo. On the right hand side, in the About box, click the gear icon. Type something in the _Description_ field and paste the URL into the _Website_ field and save your changes —now you can always get to your website from your repo!
 
 ### Open the Browser-Based Editor
 
