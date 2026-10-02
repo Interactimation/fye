@@ -4,5 +4,6 @@ Markdown will be served as HTML by GitHub without us writing any HTML, but there
 
 ## Images
 
-<img src="imagename.filetype" alt="Alternate Text for webreaders" style="width:500px">
+
+`<img src="imagename.filetype" alt="Alternate Text for webreaders" style="width:500px">`
 
