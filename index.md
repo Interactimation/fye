@@ -12,6 +12,8 @@ layout: default
 [Getting to Know You](picture.md)\
 [Writing Tools](tools.md)
 * [Get Started with GitHub](startGithub.md)
+* [Try a little HTML](html.md)
+
 
 
 
