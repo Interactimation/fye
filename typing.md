@@ -15,7 +15,7 @@ Gamification is a scientifically demonstrated method of training yourself with a
 
 Over 24 years, Typing.com has served 72 million students worldwide. _Free and easy to set up and use, it is certified for accessibility!_
 
-I'm going to suggest [a set of games involving a cute ninja](https://www.typingme.com/touch-typing/typing-tutor-basicposition.php), but you may purse [any of the games you find on the site](https://www.typing.com/student/games)
+I'm going to suggest [a set of games involving a cute ninja](https://www.typing.com/student/game/keyboard-ninja), but you may purse [any of the games you find on the site](https://www.typing.com/student/games)
 
 > Take a moment to look over some of the games, you don't have to pick just one!
 
