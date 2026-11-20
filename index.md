@@ -8,12 +8,14 @@ layout: default
 
 ## Table of Contents
 
+[About Me](writingGame.md)\
 [Syllabus](FYEsyllabus.md)\
 [Getting to Know You](picture.md)\
 [Writing Tools](tools.md)
 * [Get Started with GitHub](startGithub.md)
 * [Try a little HTML](html.md)
 * [Typing Skills](typing.md)
+[Writing Approaches](approaches.md)
 
 
 
